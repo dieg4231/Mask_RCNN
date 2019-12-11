@@ -1,4 +1,13 @@
-# Intrucciones
+# Especificaciones 
+
+Este poryecto fue porbado con las siguientes caracteristicas:
+
+tensorflow-gpu 1.14
+Cuda 10
+keras 2.3.1
+
+
+# Intrucciones de instalación
 
 - Clonar este repositorio
 
